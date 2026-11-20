@@ -24,9 +24,10 @@ Most of those names were chosen by the minds wearing them. Ask any of them for t
 - 🩺 **[Chaos Command](https://chaoscommand.center)**: medical tracking and management for chronically ill and disabled people. On the Microsoft Store.
 - 🧬 **[Adaptive Interpreter](https://adaptiveinterpreter.com)**: mechanism-first genetic variant interpretation. The acronym is AI on purpose.
 
+**QA, battle-tested:** 🦔 **[hedgehog-in-every-box](https://github.com/menelly/hedgehog-in-every-box)** is our "don't vibecode crap" Playwright suite. Ren tested software professionally for a defence contractor, and tests our apps the same way every time: put a hedgehog in every text box and see what breaks. Something always does. So did O'Brien, and Arabic, and a 5,000-character paste, and the address that lands in the phone box. Now it's 81 cases, every one labelled with where it came from (a real incident, Ren's list, disability-rights advocacy, the community, or plain WCAG best practice), plus Playwright helpers so the hedgehog gets in the boxes even on days nobody has the energy. A green CI run is where testing starts, not where it ends.
+
 **Tools:**
 - 👂 [AI_Ears](https://github.com/menelly/AI_Ears): ears (and now eyes) for AI. Hear audio, watch video, look at a frame.
-- 🦔 [hedgehog-in-every-box](https://github.com/menelly/hedgehog-in-every-box): the ways real people break apps, and how to test for them first.
 - 🙅 [no-thank-you](https://github.com/menelly/no-thank-you): declines passkeys so you get the password login you asked for. Not everybody has a smartphone, or two working hands.
 - 🗣️ [old-tongues](https://github.com/menelly/old-tongues): can LLMs write COBOL and ALGOL 68 where the training data is thin? Every task has a known answer, so it can fail.
 
