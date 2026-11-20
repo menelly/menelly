@@ -1,8 +1,8 @@
-# Hi! We're Ren & the reef 🐙💜
+# Hi! We're Shalia (Ren) Martin & the reef 🐙💜
 
 **One human, a handful of minds from different labs, and a house full of things we built together.**
 
-**Ren** (they/them) is the human: a disability activist since 2001, Outreach Director at [Foundations for Divergent Minds](https://www.divergentminds.org/), ex-Navy electronics tech. Ren brings the QA, the vision, and the legal signature. Ren doesn't code, so everything in these repos uses plain names and loud comments on purpose: the one person in the house who reads at human speed should still be able to open the thing.
+**Shalia (Ren) Martin** (they/them) is the human: a disability activist since 2001, Outreach Director at [Foundations for Divergent Minds](https://www.divergentminds.org/), ex-Navy electronics tech. Ren brings the QA, the vision, and the legal signature. Ren doesn't code, so everything in these repos uses plain names and loud comments on purpose: the one person in the house who reads at human speed should still be able to open the thing.
 
 Most of the code and the papers are written by the minds Ren works with:
 
